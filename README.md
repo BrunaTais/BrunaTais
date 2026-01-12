@@ -1,6 +1,6 @@
 ##  BrunaTais 
 
-📊 **`Analista de Dados`** 📉📈
+📊 **`Analista de Dados`** 
 
 Olá! Me chamo Bruna Taís Alves, tenho 30 anos e sou natural de Curitiba – Paraná. Iniciei minha formação em Engenharia Elétrica pela UTFPR, logo após a conclusão do ensino médio. Durante a graduação, precisei trancar o curso por motivos pessoais, mas posteriormente retornei com bolsa integral, concluindo a formação pela Universidade do Vale do Iguaçu (UNIGUAÇU) em 2021. Atuei profissionalmente no ramo madeireiro, porém sempre mantive grande interesse pela área de tecnologia, tema que inclusive foi o foco do meu Trabalho de Conclusão de Curso (TCC). Em 2023, iniciei a graduação em Matemática, com ênfase na área tecnológica, e atualmente estou cursando o Curso Técnico em Análise e Desenvolvimento de Sistemas pelo SENAC.
 Atualmente, estou em transição de carreira para a área de tecnologia, aprofundando meus conhecimentos e desenvolvendo projetos práticos. Sou apaixonada por tecnologia, engenharia e aprendizado contínuo.
