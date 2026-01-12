@@ -28,6 +28,9 @@ Atualmente, estou em transição de carreira para a área de tecnologia, aprofun
 <img align="left" alt="C++" title="C++" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> 
 
+<img align="left" alt="Portugol" title="Portugol" width="30px" style="padding-right:10px;"
+src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />
+
 <img align="left" alt="JavaScript" title="JavaScript (em aprendizado)" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
