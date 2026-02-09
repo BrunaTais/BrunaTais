@@ -46,9 +46,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
 <br/>
 <br/>
 
+
 ### 📊 Estatísticas do GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=BrunaTais&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunaTais&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaTais&layout=compact&theme=tokyonight)
 
 
