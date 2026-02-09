@@ -49,8 +49,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunaTais&show_icons=true&theme=tokyonight)
+<a href="mailto:brunataisalves96@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaTais&layout=compact&theme=tokyonight)
 
 
