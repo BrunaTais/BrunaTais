@@ -46,9 +46,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
 <br/>
 <br/>
 
-
-## 📊 Estatísticas do GitHub
-
 ## 📊 Estatísticas do GitHub
 
 [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=BrunaTais&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/BrunaTais)
