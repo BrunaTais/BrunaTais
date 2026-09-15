@@ -49,7 +49,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunaTais&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaTais&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=BrunaTais&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/BrunaTais)
+
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BrunaTais&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/BrunaTais)
 
